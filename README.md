@@ -24,8 +24,6 @@
 
 💡 Love solving real-world problems through technology
 
-⚡ Fun Fact: I turn coffee ☕ into code 💻
-
 ---
 
 # 🌸 Tech Stack
